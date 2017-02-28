@@ -1,3 +1,2 @@
-# Project-Euler
-Solutions to PE problems.
-by Akshat Bhardwaj.
+Competitive-Programming.
+The codes I write.
