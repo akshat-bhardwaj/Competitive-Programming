@@ -1,2 +1,1 @@
-Competitive-Programming.
-The codes I write.
+Solutions to Project Euler problems in c++.
